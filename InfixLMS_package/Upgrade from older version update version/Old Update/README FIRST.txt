@@ -1,1 +1,0 @@
-Please take backup before upgrade to new version, incase make problem may not get instant solution, so backup is the best solution.
